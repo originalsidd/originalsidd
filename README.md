@@ -48,30 +48,22 @@
 
 <br>
 
-### 📈 Github Stats
-
-  ---
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact" alt="originalsidd" /></p>
-
-<p align="center">
+### 📈 GitHub Stats
+<p>
   <img src="https://gpvc.arturio.dev/originalsidd" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/originalsidd?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
 </p>
-<p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Foriginalsidd" alt="Github Profile Score">
-  </code>
-</p>
 
   ---
   
-<img src="https://komarev.com/ghpvc/?username=originalsidd&label=Profile%20views&color=00acee&style=flat" alt="originalsidd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact" alt="originalsidd" />
 <br>
-<a href="https://github.com/originalsidd/profile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Sidd's GitHub Stats" />
+<a href="https://github.com/danBamikiya/profile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a" alt="Sidd's GitHub Stats" />
 </a>
+
+
 <br>
 
 ### ⚡ Hobbies
