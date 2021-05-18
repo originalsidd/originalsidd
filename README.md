@@ -39,6 +39,7 @@
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="40" width="40" src="https://github.com/originalsidd/profile/blob/main/expressjs-iconsvg%20(7).svg"></code>
 <code><img height="40" width="40" src="https://github.com/bookshelf/assets/blob/master/knex/knex-icon.svg"></code>
+<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
