@@ -6,18 +6,24 @@
 
 - 📫 How to reach me **originalsidd@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/originalsidd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="originalsidd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/originalsidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="originalsidd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/originalsidd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="originalsidd" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@originalsidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@originalsidd" height="30" width="40" /></a>
-</p>
-
-
 <br>
-<h3 align="left">Languages and Tools:</h3>
 
+### 💬 Contact Me
+
+  ---
+  
+<p align="left">
+<a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://github.com/originalsidd/profile/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://github.com/originalsidd/profile/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://github.com/originalsidd/profile/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://github.com/originalsidd/profile/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://github.com/originalsidd/profile/blob/main/linkedin.png?raw=true"></a>
+<br><br>
+
+### 🔧 Technologies & Tools
+
+  ---
+  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -40,6 +46,12 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
 
+<br>
+
+### 📈 Github Stats
+
+  ---
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact" alt="originalsidd" /></p>
 
 <p align="center">
@@ -53,4 +65,18 @@
   </code>
 </p>
 
+  ---
+  
+<img src="https://komarev.com/ghpvc/?username=originalsidd&label=Profile%20views&color=00acee&style=flat" alt="originalsidd" />
+<br>
+<a href="https://github.com/originalsidd/profile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Sidd's GitHub Stats" />
+</a>
+<br>
+
+### ⚡ Hobbies
+
+  ---
+
+🏸 Badminton  🏓 Table Tennis 🏹 Archery
 
