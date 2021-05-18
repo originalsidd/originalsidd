@@ -77,6 +77,6 @@
   ---
 
 🎵 Music Production  
-🏓 Table Tennis 
+🏓 Table Tennis /
 🎮 Speedrunning Competitive Games
 
