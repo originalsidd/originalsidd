@@ -1,5 +1,5 @@
 <h1 align="center">Hellloooo World👋</h1>
-<h4>I'm Siddharth Pal, A passionate learner and doer from India </h4>
+<h4>I'm Siddharth Pal, A passionate coder and creative thinker from India </h4>
 <br>
 <br>
 - 🌱 I’m currently learning **Cloud Service AWS**
