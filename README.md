@@ -76,7 +76,8 @@
 
   ---
 
-🎵 Music Production  
+👨‍💻 Competitive Programming \
+🎵 Music Production \
 🏓 Table Tennis \
 🎮 Speedrunning Competitive Games
 
