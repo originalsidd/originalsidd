@@ -13,18 +13,7 @@
 <a href="https://codeforces.com/profile/originalsidd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="originalsidd" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@originalsidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@originalsidd" height="30" width="40" /></a>
 </p>
-<br>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/originalsidd" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/originalsidd?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
-</p>
-<p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Foriginalsidd" alt="Github Profile Score">
-  </code>
-</p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -51,5 +40,17 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact" alt="originalsidd" /></p>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/originalsidd" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/originalsidd?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
+</p>
+<p align="center">
+  <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Foriginalsidd" alt="Github Profile Score">
+  </code>
+</p>
+
+
