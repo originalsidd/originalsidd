@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML and AWS Cloud Computing**
 
-- 👯 I’m looking to collaborate on Full Stack open source projects
+- 👯‍♂️ I’m looking to collaborate on Full Stack open source projects
 
 - 📫 How to reach me **originalsidd@gmail.com**
 
