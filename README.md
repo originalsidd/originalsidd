@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I am Sidd 👋 🙋‍♂️</h1>
+<h1 align="center">Hi, I am Sidd 🙋‍♂️</h1>
 <img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 
-## *I'm a passionate coder, contributor and creative thinker from India*
+## *A passionate coder, contributor and creative thinker from India*
 
 <!-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
 
