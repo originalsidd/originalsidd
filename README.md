@@ -1,15 +1,23 @@
 <h1 align="center">Hi, I am Sidd 🙋‍♂️</h1>
+
 <img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 
-## *A passionate coder, contributor and creative thinker from India*
+<h2 align='center'>
+  <i> A passionate coder, contributor and creative thinker from India </i>
+</h2>
+<br>
 
-<!-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
+### 🐱‍👤 About Me
 
-- 🌱 I’m currently learning **AI/ML and AWS Cloud Computing**
+  ---
+  
+<!-- 🔭 I’m currently working on (https://github.com/originalsidd/smart-brain-api)-->
 
-- 👯‍♂️ I’m looking to collaborate on Full Stack open source projects
-
-- 📫 How to reach me **originalsidd@gmail.com**
+- 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore.**
+- 🌱 Nowadays engaged in **Full Stack Development**
+- 🌴 Currently learning **AI/ML and AWS Cloud Computing**
+- 👯‍♂️ Open to collaborate on **Open Source Projects**
+- ⚡ All of my projects are available at **<a id="raw-url" href="https://github.com/originalsidd">https://github.com/originalsidd</a>**
 
 <br>
 
@@ -25,7 +33,7 @@
 
 <br>
 
-### 🔧 Technologies & Tools
+### 🔧 Languages & Tools
 
   ---
   
