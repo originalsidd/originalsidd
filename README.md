@@ -26,9 +26,13 @@
   ---
   
 <p align="left">
-<a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="35" src="https://github.com/originalsidd/profile/blob/main/linkedin.png?raw=true"></a>&nbsp;
-<a href="https://www.hackerrank.com/originalsidd"><img height="35" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>&nbsp;
-<a href=""><img height="35" src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4"></a>
+  <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd"></a>
+  <a href="mailto: originalsidd@gmail.com"><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/nightshiftshadow"><img height="32" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/originalsidd"><img height="35" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png">
+  </a>
+  
 </p>
 
 <br>
