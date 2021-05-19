@@ -13,7 +13,7 @@
   
 <!-- 🔭 I’m currently working on (https://github.com/originalsidd/smart-brain-api)-->
 
-- 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore.**
+- 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore**
 - 🌱 Nowadays engaged in **Full Stack Development**
 - 🌴 Currently learning **AI/ML and AWS Cloud Computing**
 - 👯‍♂️ Open to collaborate on **Open Source Projects**
