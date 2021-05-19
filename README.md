@@ -86,6 +86,7 @@
 
 👨‍💻 Competitive Programming \
 🎵 Music Production \
+🔭 Stargazing \
 🏓 Table Tennis \
-🎮 Speedrunning Competitive Games
-
+🎮 Speedrunning Competitive Games \
+🎬 Video and Photo Editing
