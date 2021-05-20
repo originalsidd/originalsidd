@@ -97,11 +97,10 @@
 </p>
 
   ---
+  
 <p align="center">
-  <a href="https://github.com/originalsidd/originalsidd">
-    <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&&hide_border=true" alt="Sidd's GitHub Stats" />
-  </a>
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=10&&hide_border=true" alt="originalsidd" />
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&&hide_border=true" alt="Sidd's GitHub Stats" />
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=15&hide_border=true" alt="originalsidd" />
 </p>
 
 
