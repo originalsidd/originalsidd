@@ -12,7 +12,7 @@
   ---
   
 <!-- 🔭 I’m currently working on (https://github.com/originalsidd/smart-brain-api)-->
-<a href="https://www.codechef.com/profile/codeforces">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
+<a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
 
 
