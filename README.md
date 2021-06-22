@@ -12,6 +12,9 @@
   ---
   
 <!-- 🔭 I’m currently working on (https://github.com/originalsidd/smart-brain-api)-->
+<a href="https://www.codechef.com/profile/codeforces">[![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)]</a>
+<a href="https://www.codechef.com/users/originalsidd">[![Badge](https://cp-logo.vercel.app/codechef/originalsidd)]</a>
+
 
 - 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore**
 - 🌱 Nowadays working on **Full Stack Development**
@@ -55,13 +58,14 @@
   <br>
   <img alt="NodeJS" height="32" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" height="32" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
-  <img alt="Django" height="32" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Django" height="32" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=green"/>
   <img alt="Postman" height="32" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
   <img alt="Babel" height="32" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
   <br>
-  <img alt="MySQL" height="32"src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Postgres" height="32" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" height="32"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Postgres" height="32" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Heroku" height="32" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="MongoDB" height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Bootstrap" height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 <!--<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
