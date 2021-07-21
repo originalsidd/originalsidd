@@ -20,7 +20,7 @@
 - 🌱 Nowadays working on **Full Stack Development**
 - 🌴 Currently learning **AI/ML and AWS Cloud Computing**
 - 👯‍♂️ Open to collaborate on **Open Source Projects**
-- ⚡ All of my projects are available at **<a id="raw-url" href="https://www.originalsidd.com">https://github.com/originalsidd</a>**
+- ⚡ All of my projects are available at **<a id="raw-url" href="https://www.originalsidd.com">https://www.originalsidd.com</a>**
 
 <br>
 
