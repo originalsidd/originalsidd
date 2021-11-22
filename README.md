@@ -1,9 +1,7 @@
 <img src="github_tile.png">
-<br>
-
-<b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer</b>
 
 ---
+<b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer</b>
 
 
 ## About Me 🦊
