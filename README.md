@@ -8,7 +8,7 @@
 <img src="sidd.png">
 <br>
 
-## About Me 🐱‍💻
+## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
 
@@ -44,7 +44,7 @@
 </p>
 <br>
 
-## Languages & Tools 🔧
+## Languages & Tools 🛠️
 <p>
   <img alt="Python" height="28" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="Java" height="28" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=blue"/>
@@ -103,7 +103,7 @@
 
 <br>
 
-## Hobbies 🐱‍🏍
+## Hobbies 🎲
 👨‍💻 Competitive Programming \
 🎵 Music Production \
 🔭 Stargazing \
