@@ -45,10 +45,7 @@
   </a>
 </p>
 
-<br>
-
 ## Languages & Tools 🔧
-
 <p>
   <img alt="Python" height="28" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="Java" height="28" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=blue"/>
@@ -85,38 +82,27 @@
   <!-- <img alt="Atom" height="28" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/> -->
   <img alt="Pycharm" height="28" src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
-<br>
 
 ## GitHub Stats 📈
-
 <p>
   <img src="https://gpvc.arturio.dev/originalsidd" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/originalsidd?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
 </p>
-
-
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a" alt="Sidd's GitHub Stats" />
-
 <p/>
-<br>
 
 ## Language Stats 📊
-
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&card_width=320" alt="originalsidd" />
 
 <p/>
-<br>
 
 ## Streak 🔥
-
 <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=originalsidd&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&hide_border=true&card_width=240"/>
 
 <p/>
-<br>
 
 ## ⚡ Hobbies
-
 👨‍💻 Competitive Programming \
 🎵 Music Production \
 🔭 Stargazing \
