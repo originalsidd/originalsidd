@@ -1,13 +1,13 @@
 <img src="github_tile.png">
+
 <h2 align="center"> 
 <b>Web and App Developer, Data Scientist, Competitive Programmer</b>
 </h2>
-<br>
+
 
 ## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
-
 
 - 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore**
 - 🌱 Nowadays working on **Full Stack Development**
