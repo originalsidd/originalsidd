@@ -23,7 +23,6 @@
 <br>
 
 ## Contact Me 💬
-<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd">
@@ -49,7 +48,6 @@
 <br>
 
 ## Languages & Tools 🔧
-<br>
 
 <img alt="Python" height="28" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
 <img alt="Java" height="28" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=blue"/>
@@ -87,7 +85,6 @@
 <br>
 
 ## GitHub Stats 📈
-<br>
 
 <p>
   <img src="https://gpvc.arturio.dev/originalsidd" alt="profile views"> •  
@@ -102,7 +99,6 @@
 <br>
 
 ## Language Stats 📊
-<br>
 
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&card_width=320" alt="originalsidd" />
 
@@ -110,7 +106,6 @@
 <br>
 
 ## Streak 🔥
-<br>
 
 <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=originalsidd&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&hide_border=true&card_width=240"/>
 
@@ -118,7 +113,6 @@
 <br>
 
 ## ⚡ Hobbies
-<p/>
 
 👨‍💻 Competitive Programming \
 🎵 Music Production \
