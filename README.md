@@ -1,6 +1,5 @@
 <img src="github_tile.png">
 
----
 <b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer</b>
 
 
