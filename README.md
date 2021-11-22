@@ -5,7 +5,7 @@
 <h2 align='center'>
   <b>Web and App Developer, Data Scientist, Competitive Programmer</b>
 </h2>
-<br>
+<p/>
 
 ## About Me 🐱‍👤 
 
@@ -20,10 +20,9 @@
 - 👯‍♂️ Open to collaborate on **Open Source Projects**
 - ⚡ All of my projects are available at **<a id="raw-url" href="https://www.originalsidd.com">https://www.originalsidd.com</a>**
 
-<br>
+<p/>
 
 ## Contact Me 💬
-
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd">
   </a>
@@ -44,6 +43,7 @@
   <a href="https://www.codechef.com/users/originalsidd"><img height="30" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
   </a>
 </p>
+<p/>
 
 ## Languages & Tools 🔧
 <p>
@@ -90,6 +90,7 @@
   <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
 </p>
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a" alt="Sidd's GitHub Stats" />
+<p/>
 <p/>
 
 ## Language Stats 📊
