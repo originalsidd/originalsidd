@@ -2,6 +2,8 @@
 
 <b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer</b>
 
+<b><p align="center" style="font-size:30px;color:#0ac970;font-family:Segoe UI;text-align-last:center;">Web and App Developer, Data Scientist, Competitive Programmer</p></b>
+
 
 ## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
