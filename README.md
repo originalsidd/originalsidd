@@ -5,10 +5,10 @@
 <br>
 <p/>
 <img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
+<br>
 
-## About Me 🐱‍👤 
+## About Me 🐱‍💻
 
-<!-- 🔭 I’m currently working on (https://github.com/originalsidd/smart-brain-api)-->
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
 
@@ -19,11 +19,11 @@
 - 👯‍♂️ Open to collaborate on **Open Source Projects**
 - ⚡ All of my projects are available at **<a id="raw-url" href="https://www.originalsidd.com">https://www.originalsidd.com</a>**
 
-<p/>
+<br>
 
 ## Contact Me 💬
 <p align="left">
-  <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd">
+  <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="29" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd">
   </a>
   <a href="https://www.originalsidd.com"><img height="30" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
@@ -42,7 +42,7 @@
   <a href="https://www.codechef.com/users/originalsidd"><img height="30" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
   </a>
 </p>
-<p/>
+<br>
 
 ## Languages & Tools 🔧
 <p>
@@ -81,6 +81,7 @@
   <!-- <img alt="Atom" height="28" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/> -->
   <img alt="Pycharm" height="28" src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
+<br>
 
 ## GitHub Stats 📈
 <p>
@@ -89,18 +90,18 @@
   <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
 </p>
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a" alt="Sidd's GitHub Stats" />
-<p/>
-<p/>
+
+<br>
 
 ## Language Stats 📊
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&card_width=320" alt="originalsidd" />
 
-<p/>
+<br>
 
 ## Streak 🔥
 <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=originalsidd&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&hide_border=true&card_width=240"/>
 
-<p/>
+<br>
 
 ## Hobbies ⚡
 👨‍💻 Competitive Programming \
