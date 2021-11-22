@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I am Sidd 🙋‍♂️</h1>
 
-<img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 
-<h2 align='center'>
-  <b>Web and App Developer, Data Scientist, Competitive Programmer</b>
-</h2>
+<center><b>Web and App Developer, Data Scientist, Competitive Programmer</b></center>
+<img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 <p/>
 
 ## About Me 🐱‍👤 
@@ -103,7 +101,7 @@
 
 <p/>
 
-## ⚡ Hobbies
+## Hobbies ⚡
 👨‍💻 Competitive Programming \
 🎵 Music Production \
 🔭 Stargazing \
