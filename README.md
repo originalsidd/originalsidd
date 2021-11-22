@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I am Sidd 🙋‍♂️</h1>
-
+<img src="github_tile.png">
+<br>
 
 <b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer</b>
-<br>
-<p/>
-<!-- <img src="https://github.com/originalsidd/profile/blob/main/sidd.png"> -->
-<img src="sidd.png">
-<br>
+
+---
+
 
 ## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
