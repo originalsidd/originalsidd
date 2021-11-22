@@ -5,44 +5,19 @@
 <br>
 <p/>
 <!-- <img src="https://github.com/originalsidd/profile/blob/main/sidd.png"> -->
+<img src="sidd.png">
 <br>
 
 ## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-      🎓 Pursuing B.Tech in Computer Science from <b>Vellore Institute of Technology, Vellore</b>
-      </td>
-      <td rowspan="6" >
-        <img height="250" src="sidd_git2.png">
-      </td>
-    </tr>
-    <tr>
-      <td>
-      🌱 Nowadays working on <b>Full Stack Development</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      🌴 Currently learning <b>AI/ML and AWS Cloud Computing</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      👯‍♂️ Open to collaborate on <b>Open Source Projects</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      ⚡ All of my projects are available at <b><a id="raw-url" href="https://www.originalsidd.com">https://www.originalsidd.com</a></b>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+- 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore**
+- 🌱 Nowadays working on **Full Stack Development**
+- 🌴 Currently learning **AI/ML and AWS Cloud Computing**
+- 👯‍♂️ Open to collaborate on **Open Source Projects**
+- ⚡ All of my projects are available at **<a id="raw-url" href="https://www.originalsidd.com">https://www.originalsidd.com</a>**
 
 <br>
 
