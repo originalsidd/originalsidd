@@ -1,8 +1,8 @@
 <img src="github_tile.png">
-
 <h2 align="center"> 
 <b>Web and App Developer, Data Scientist, Competitive Programmer</b>
 </h2>
+<br>
 
 ## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
