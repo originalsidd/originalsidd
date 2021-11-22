@@ -1,6 +1,8 @@
 <img src="github_tile.png">
 
-<b><p align="center" style="font-size:40px;color:#0ac970;font-family:Segoe UI;">Web and App Developer, Data Scientist, Competitive Programmer</p></b>
+<h2 align="center"> 
+<b>Web and App Developer, Data Scientist, Competitive Programmer</b>
+</h2>
 
 ## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
