@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I am Sidd 🙋‍♂️</h1>
 
 
-<b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer
-</b>
+<b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer</b>
 <br>
-<img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 <p/>
+<img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 
 ## About Me 🐱‍👤 
 
