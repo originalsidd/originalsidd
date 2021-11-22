@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I am Sidd 🙋‍♂️</h1>
 
 
-<p style="text-align:center;font-size:20px;"><b>Web and App Developer, Data Scientist, Competitive Programmer</b></p>
-
+<b><h2 align="center">Web and App Developer, Data Scientist, Competitive Programmer
+</b>
+<br>
 <img src="https://github.com/originalsidd/profile/blob/main/sidd.png">
 <p/>
 
