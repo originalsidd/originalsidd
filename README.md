@@ -101,6 +101,7 @@
 
 ## Hobbies 🎲
 👨‍💻 Competitive Programming \
+🏕️ Travelling \
 🎵 Music Production \
 🔭 Stargazing \
 🏓 Table Tennis \
