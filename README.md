@@ -10,7 +10,7 @@
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
 
 - 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore**
-- 💻 Working as App Developer at PROTAL (July 2021 - Present)
+- 💻 Working as **App Developer at PROTAL** (July 2021 - Present)
 - 🌱 Nowadays working on **Full Stack Development**
 - 🌴 Currently learning **AI/ML and AWS Cloud Computing**
 - 👯‍♂️ Open to collaborate on **Open Source Projects**
